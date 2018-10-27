@@ -218,3 +218,6 @@ pip-log.txt
 Assignment1/.vs/Assignment1/v15/Server/sqlite3/storage.ide
 *.ide-shm
 Assignment1/.vs/Assignment1/v15/Server/sqlite3/storage.ide-wal
+*.ide
+RequestAndResponse/.vs/RequestAndResponse/v15/Server/sqlite3/storage.ide
+*.ide-wal
